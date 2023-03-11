@@ -2,7 +2,7 @@
 name = "ecommerce-api"
 version = "0.1.0"
 description = ""
-authors = ["su-shubham <shubhamprajapati8268@gmail.com>"]
+authors = ["su-shubham"]
 readme = "README.md"
 packages = [{include = "ecommerce_api"}]
 
