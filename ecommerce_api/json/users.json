@@ -1,6 +1,6 @@
 {
   "secret_key": "mysecretkey",
-  "access_token_expire_minutes": 30,
+  "access_token_expire_minutes": 10,
   "users": {
     "user1": {
       "password": "password1"
