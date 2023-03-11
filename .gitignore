@@ -1,0 +1,8 @@
+# Ignore Poetry virtual environment
+/.venv/
+
+# Ignore other files or directories
+/logs/
+*.log
+
+__pycache__

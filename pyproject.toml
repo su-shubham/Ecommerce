@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "ecommerce-api"
+version = "0.1.0"
+description = ""
+authors = ["su-shubham <shubhamprajapati8268@gmail.com>"]
+readme = "README.md"
+packages = [{include = "ecommerce_api"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.93.0"
+uvicorn = "^0.20.0"
+fastapi-jwt-auth = "^0.5.0"
+python-jose = {extras = ["cryptography"], version = "^3.3.0"}
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

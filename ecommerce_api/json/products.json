@@ -1,0 +1,23 @@
+{
+  "1": {
+    "productId": "1",
+    "name": "Product 1",
+    "price": 10.99,
+    "quantity": 100,
+    "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN88f79fwAIKwM67uYd4AAAAABJRU5ErkJggg=="
+  },
+  "2": {
+    "productId": "2",
+    "name": "Product 2",
+    "price": 5.99,
+    "quantity": 50,
+    "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN88f79fwAIKwM67uYd4AAAAABJRU5ErkJggg=="
+  },
+  "3": {
+    "productId": "3",
+    "name": "Product 3",
+    "price": 15.99,
+    "quantity": 200,
+    "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN88f79fwAIKwM67uYd4AAAAABJRU5ErkJggg=="
+  }
+}
